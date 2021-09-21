@@ -39,12 +39,20 @@ a{
   
 }
 
-/*cover*/
+/*cover
 
 #top_image{
     height: 430px;
     width: 100%;
     border-radius: 10px;
+}
+*/
+
+
+#top{
+  background-image: url("../img/banner.jpg");
+  height: 430px;
+  width: 100%;
 }
 
 /* orizzontal lightblue section*/
